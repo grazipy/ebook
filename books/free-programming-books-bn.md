@@ -15,7 +15,9 @@
 
 ### Algorithms
 
+* [Data Structure](https://hellohasan.com/category/data-structure/) - Hasan
 * [Dynamic Programming Book «ডাইনামিক প্রোগ্রামিং বই»](https://dp-bn.github.io) - Tasmeem Reza, Mamnoon Siam (PDF, [LaTeX](https://github.com/Bruteforceman/dynamic-progamming-book))
+* [Graph Theory](https://www.shafaetsplanet.com/?p=143) - Shafaet Ashraf
 
 
 ### C
@@ -82,3 +84,13 @@
 
 * [এসকিউএল পরিচিতি(SQL Introduction in Bangla)](https://www.sattacademy.org/sql/index.php) - Satt Academy
 * [বাংলায় SQL টিউটোরিয়াল](https://sql.howtocode.dev) - Saiful, et al.
+
+
+### Git and Github
+
+* [গিট এবং গিটহাব](https://iishanto.com/git-bangla-tutorial/) - ishanto
+
+
+### Cloud Computing
+
+* [ক্লাউড কম্পিউটিং কিভাবে কাজ করে](https://itnuthosting.com/blog/cloud-computing/) - itnut
